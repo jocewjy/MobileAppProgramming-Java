@@ -1,0 +1,8 @@
+Jocelyn Wijaya
+00000034804
+======================
+--no 2--
+Jika ketiganya dijalankan, akan terjadi error dan aplikasi akan tertutup sendiri (crash) karena tidak ada input. cara memperbaikinya adalah dengan menambahkan exception handling
+
+--no 3--
+Jika kita menginisiasi breakpoint, maka aplikasi akan berhenti sementara ketika kodingan yang dijalankan mencapai baris breakpoint tersebut
