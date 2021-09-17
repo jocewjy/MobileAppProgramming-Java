@@ -1,0 +1,4 @@
+Jocelyn Wijaya
+00000034804
+==================
+kesimpulan dari hasil pengujian app yang telah dibentuk adalah aplikasi bisa men-generate output sesuai dengan isi LinkedList yang sudah diisi sebelumnya. Setelah itu ada recyclerView yang dapat membuat app mengeluarkan AndroidToast sebagai warning.
