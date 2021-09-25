@@ -1,0 +1,4 @@
+Jocelyn Wijaya
+00000034804
+===================
+Activity dan Fragment dapat digunakan untuk melakukan kegiatan dalam android seperti berpindah tampilan UI dan mengirim data pesan. Dalam tutorial ini, data pesan dikirim dengan Intent ketika button di click.
