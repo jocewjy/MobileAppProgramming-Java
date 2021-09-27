@@ -1,0 +1,4 @@
+Jocelyn Wijaya
+00000034804
+==========================
+pengguna dapat menggambar di canvas (touchscreen), membuat bentuk seperti lingkaran atau kotak serta merubah warna karena adanya fitur bitmap yang diimplementasikan.
