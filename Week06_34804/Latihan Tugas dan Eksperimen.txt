@@ -1,0 +1,8 @@
+Jocelyn Wijaya
+00000034804
+==================
+Pada tutorial A, lingkaran memiliki animasi zoom in ketika layar disentuh dengan menyetel nilai X dan Y serta radius yang dimiliki.
+
+Pada tutorial B, gambar akan berpindah dari frame satu ke frame berikutnya sehingga membentuk animasi kuda berlari
+
+Pada tutorial C, animasi motion Fling dan animasi motion Spring akan terjadi pada tombol ketika layar disentuh
